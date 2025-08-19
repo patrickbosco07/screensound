@@ -1,4 +1,5 @@
-🎵 #Screensound
+🎵 Screensound
+
 Screensound é uma aplicação de linha de comando (CLI) desenvolvida em Java para gerenciamento de artistas e suas músicas, com integração à API do Google Gemini para enriquecimento de dados artísticos.
 
 ✨ Funcionalidades
